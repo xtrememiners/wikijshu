@@ -1,6 +1,6 @@
 {
-  "added": "Added {{path}}",
-  "deleted": "Deleted/Renamed {{path}}",
-  "updated": "Updated {{path}}",
-  "uploaded": "Uploaded {{path}}"
+  "added": "{{path}} Hozzáadva",
+  "deleted": "{{path}} Törölve",
+  "updated": "{{path}} Frissítve",
+  "uploaded": "{{path}} Feltöltve"
 }
