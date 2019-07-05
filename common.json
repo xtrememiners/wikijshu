@@ -1,0 +1,51 @@
+{
+  "wiki": "Wiki",
+  "header": {
+    "overview": "Overview",
+    "createdoc": "Új dokumentum létrehozása"
+  },
+  "footer": {
+    "poweredby": "Powered by",
+    "home": "Home",
+    "top": "Vissza a tetejére"
+  },
+  "sidebar": {
+    "nav": "NAV",
+    "navigation": "Navigáció",
+    "pagecontents": "Page Contents",
+    "pastversions": "Past Versions"
+  },
+  "nav": {
+    "account": "Accountok",
+    "allpages": "Minden oldal",
+    "create": "Létrehozás",
+    "discard": "Elvetés",
+    "edit": "Szerkesztés",
+    "history": "Előzmények",
+    "login": "Bejelentkezés",
+    "logout": "Kijelentkezés",
+    "move": "Move",
+    "myprofile": "My Profile",
+    "normalview": "Normal View",
+    "root": "Home",
+    "savechanges": "Save Changes",
+    "savedocument": "Save Document",
+    "settings": "Settings",
+    "source": "Source",
+    "stats": "Stats",
+    "sysinfo": "System Info",
+    "syssettings": "System Settings",
+    "theme": "Color Theme",
+    "users": "Users",
+    "viewlatest": "View Latest"
+  },
+  "welcome": {
+    "title": "Welcome to your wiki!",
+    "subtitle": "Let's get started and create the home page.",
+    "createhome": "Create Home Page"
+  },
+  "loading": {
+    "source": "Loading source...",
+    "editor": "Loading editor..."
+  }
+}
