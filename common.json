@@ -1,11 +1,11 @@
 {
   "wiki": "Wiki",
   "header": {
-    "overview": "Overview",
+    "overview": "Áttekintés",
     "createdoc": "Új dokumentum létrehozása"
   },
   "footer": {
-    "poweredby": "Powered by",
+    "poweredby": "Pwd by",
     "home": "Kezdőlap",
     "top": "Vissza a tetejére"
   },
@@ -34,7 +34,7 @@
     "source": "Forrás",
     "stats": "Statisztikák",
     "sysinfo": "Rendszer Info",
-    "syssettings": "REndszer beállítások",
+    "syssettings": "Rendszer beállítások",
     "theme": "Szín téma",
     "users": "Felhasználók",
     "viewlatest": "Utolsó megtekintése"
