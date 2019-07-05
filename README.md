@@ -1,0 +1,2 @@
+# wikijshu
+wikijs fordítás
