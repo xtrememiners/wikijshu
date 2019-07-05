@@ -18,9 +18,9 @@
   },
   "stats": {
     "subtitle": "General site-wide statistics",
-    "entries": "Entries",
-    "uploads": "Uploads",
-    "users": "Users"
+    "entries": "Bejegyzések",
+    "uploads": "Feltöltések",
+    "users": "Felhasználók"
   },
   "settings": {
     "subtitle": "Manage site configuration"

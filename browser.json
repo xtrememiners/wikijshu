@@ -1,7 +1,7 @@
 {
   "editor": {
-    "codeblockinsert": "Insert Code Block",
-    "codeblocklanguage": "Language",
+    "codeblockinsert": "Code block beszúrása",
+    "codeblocklanguage": "Nyelv",
     "codeblockloading": "Loading code syntax for {{name}}",
     "codeblockloadingerror": "Error: Unable to load language syntax.",
     "codeblocksuccess": "Your code block has been inserted.",

@@ -1,11 +1,11 @@
 {
-  "alreadyexists": "This entry already exists!",
+  "alreadyexists": "Ez a bejegyzés már létezik!",
   "debugmsg": "Detailed debug trail",
-  "fileexists": "File {{path}} already exists.",
+  "fileexists": "Fálj {{path}} már létezik.",
   "forbidden": "Forbidden",
-  "forbiddendetail": "Sorry, you don't have the necessary permissions to access this page.",
-  "generic": "Oops, something went wrong",
-  "invalidaction": "Invalid Action.",
+  "forbiddendetail": "Sajnáljuk, nincs meg a jogod az oldal megtekintéséhez",
+  "generic": "Hoppá, eltölt a gyémánt kard",
+  "invalidaction": "Érvénytelen akció.",
   "invaliddestfolder": "Invalid Destination Folder!",
   "invalidfiletype": "Invalid File Type.",
   "invalidfolder": "Invalid Folder.",
@@ -23,8 +23,8 @@
   "starterfailed": "Could not load starter content!",
   "unauthorized": "Unauthorized",
   "actions": {
-    "create": "Create",
-    "gohome": "Go Home",
-    "loginas": "Login as..."
+    "create": "Létrehozás",
+    "gohome": "Ugrás a kezdőlapra",
+    "loginas": "Bejelentkezés mint..."
   }
 }

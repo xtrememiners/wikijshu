@@ -6,14 +6,14 @@
   },
   "footer": {
     "poweredby": "Powered by",
-    "home": "Home",
+    "home": "Kezdőlap",
     "top": "Vissza a tetejére"
   },
   "sidebar": {
     "nav": "NAV",
     "navigation": "Navigáció",
-    "pagecontents": "Page Contents",
-    "pastversions": "Past Versions"
+    "pagecontents": "Oldal tartalmak",
+    "pastversions": "Előző verziók"
   },
   "nav": {
     "account": "Accountok",
@@ -24,28 +24,28 @@
     "history": "Előzmények",
     "login": "Bejelentkezés",
     "logout": "Kijelentkezés",
-    "move": "Move",
-    "myprofile": "My Profile",
-    "normalview": "Normal View",
-    "root": "Home",
-    "savechanges": "Save Changes",
-    "savedocument": "Save Document",
-    "settings": "Settings",
-    "source": "Source",
-    "stats": "Stats",
-    "sysinfo": "System Info",
-    "syssettings": "System Settings",
-    "theme": "Color Theme",
-    "users": "Users",
-    "viewlatest": "View Latest"
+    "move": "Mozgatás",
+    "myprofile": "Profilom",
+    "normalview": "Normal nézet",
+    "root": "Kezdőlap",
+    "savechanges": "Változások mentése",
+    "savedocument": "Dokumentum mentése",
+    "settings": "Beállítások",
+    "source": "Forrás",
+    "stats": "Statisztikák",
+    "sysinfo": "Rendszer Info",
+    "syssettings": "REndszer beállítások",
+    "theme": "Szín téma",
+    "users": "Felhasználók",
+    "viewlatest": "Utolsó megtekintése"
   },
   "welcome": {
-    "title": "Welcome to your wiki!",
-    "subtitle": "Let's get started and create the home page.",
-    "createhome": "Create Home Page"
+    "title": "Üdvözlünk a wiki oldaladon",
+    "subtitle": "Kezdésként hozd létre, a kezdő oldalt",
+    "createhome": "Kezdő lap létrehozása"
   },
   "loading": {
-    "source": "Loading source...",
-    "editor": "Loading editor..."
+    "source": "Forrás betöltése...",
+    "editor": "Szerkesztő betöltése..."
   }
 }
